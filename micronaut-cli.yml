@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: net.tropicbliss
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, graalvm, http-client-test, java, java-application, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, netty-server, reactor, readme, security, security-annotations, serialization-jackson, shade, yaml, yaml-build]

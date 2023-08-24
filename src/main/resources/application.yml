@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: athome
+  server:
+    port: 1339
+
+authentication:
+  username: sherlock
+  password: password
